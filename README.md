@@ -1,2 +1,3 @@
 # hello-world
 this is my first resporitory for making a software
+HELLO! MY NAME IS SACHIN KUMAR. IM A STUDENT OF COMPUTER SCIENCE STUDENT IN HBTU. IM  VERY ACCITED TO KNOW MORE ABOUT DEVELOPMENT 
